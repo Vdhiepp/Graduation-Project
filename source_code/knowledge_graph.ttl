@@ -1,0 +1,4 @@
+@prefix ns1: <http://example.org/> .
+
+ns1:dog ns1:next_to ns1:car .
+

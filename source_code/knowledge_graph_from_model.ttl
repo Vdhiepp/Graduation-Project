@@ -1,0 +1,53 @@
+@prefix ns1: <http://example.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns1:bed_2 ns1:hasClass "bed" ;
+    ns1:hasCount 1 ;
+    ns1:hasHeight "347.923" ;
+    ns1:hasPosition "276.1393127441406,119.75149536132812,637.6217041015625,467.67449951171875" ;
+    ns1:hasWidth "361.4824" .
+
+ns1:book_1 ns1:hasClass "book" ;
+    ns1:hasCount 1 ;
+    ns1:hasHeight "131.81131" ;
+    ns1:hasPosition "408.53802490234375,140.3133544921875,502.49072265625,272.1246643066406" ;
+    ns1:hasWidth "93.9527" .
+
+ns1:book_2 ns1:hasClass "book" ;
+    ns1:hasCount 1 ;
+    ns1:hasHeight "347.923" ;
+    ns1:hasPosition "276.1393127441406,119.75149536132812,637.6217041015625,467.67449951171875" ;
+    ns1:hasWidth "361.4824" .
+
+ns1:book_3 ns1:hasClass "book" ;
+    ns1:hasCount 1 ;
+    ns1:hasHeight "7.914734" ;
+    ns1:hasPosition "144.5057373046875,271.0541076660156,179.61387634277344,278.9688415527344" ;
+    ns1:hasWidth "35.10814" .
+
+ns1:book_4 ns1:hasClass "book" ;
+    ns1:hasCount 1 ;
+    ns1:hasHeight "9.499084" ;
+    ns1:hasPosition "161.70822143554688,365.1669921875,219.41664123535156,374.66607666015625" ;
+    ns1:hasWidth "57.70842" .
+
+ns1:book_5 ns1:hasClass "book" ;
+    ns1:hasCount 1 ;
+    ns1:hasHeight "14.277725" ;
+    ns1:hasPosition "511.8093566894531,250.21046447753906,637.5722045898438,264.4881896972656" ;
+    ns1:hasWidth "125.76285" .
+
+ns1:book_6 ns1:hasClass "book" ;
+    ns1:hasCount 1 ;
+    ns1:hasHeight "16.86853" ;
+    ns1:hasPosition "163.56394958496094,351.74456787109375,217.1427001953125,368.61309814453125" ;
+    ns1:hasWidth "53.57875" .
+
+ns1:dog ns1:next_to ns1:car .
+
+ns1:person_1 ns1:hasClass "person" ;
+    ns1:hasCount 1 ;
+    ns1:hasHeight "131.81131" ;
+    ns1:hasPosition "408.53802490234375,140.3133544921875,502.49072265625,272.1246643066406" ;
+    ns1:hasWidth "93.9527" .
+
